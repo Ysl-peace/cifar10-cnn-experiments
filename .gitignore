@@ -1,0 +1,10 @@
+data/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.docx
+*.pdf
+*.zip
+tmp/

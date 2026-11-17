@@ -1,0 +1,15 @@
+Model parameters: 20042
+Best epoch: 10
+Best recorded validation accuracy: 52.94 %
+Train accuracy: 53.71 %
+Validation accuracy: 52.94 %
+Validation accuracy of plane: 50.82 %
+Validation accuracy of   car: 71.29 %
+Validation accuracy of  bird: 46.99 %
+Validation accuracy of   cat: 37.37 %
+Validation accuracy of  deer: 43.95 %
+Validation accuracy of   dog: 41.05 %
+Validation accuracy of  frog: 62.13 %
+Validation accuracy of horse: 45.80 %
+Validation accuracy of  ship: 82.54 %
+Validation accuracy of truck: 45.91 %

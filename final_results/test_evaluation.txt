@@ -1,0 +1,12 @@
+Test samples: 10000
+Test accuracy: 74.30 %
+Test accuracy of plane: 80.80 %
+Test accuracy of car: 86.10 %
+Test accuracy of bird: 51.20 %
+Test accuracy of cat: 54.20 %
+Test accuracy of deer: 76.20 %
+Test accuracy of dog: 68.00 %
+Test accuracy of frog: 82.40 %
+Test accuracy of horse: 77.40 %
+Test accuracy of ship: 87.90 %
+Test accuracy of truck: 78.80 %

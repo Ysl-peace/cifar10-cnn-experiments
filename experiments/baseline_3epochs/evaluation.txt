@@ -1,0 +1,12 @@
+Train accuracy: 57.53 %
+Test accuracy: 55.45 %
+Accuracy of plane: 62.40 %
+Accuracy of   car: 74.90 %
+Accuracy of  bird: 40.40 %
+Accuracy of   cat: 46.00 %
+Accuracy of  deer: 41.20 %
+Accuracy of   dog: 45.50 %
+Accuracy of  frog: 62.90 %
+Accuracy of horse: 63.90 %
+Accuracy of  ship: 48.60 %
+Accuracy of truck: 68.70 %

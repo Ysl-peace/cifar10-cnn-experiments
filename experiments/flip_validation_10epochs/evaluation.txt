@@ -1,0 +1,12 @@
+Train accuracy: 70.24 %
+Validation accuracy: 65.16 %
+Validation accuracy of plane: 66.60 %
+Validation accuracy of   car: 81.05 %
+Validation accuracy of  bird: 59.96 %
+Validation accuracy of   cat: 63.91 %
+Validation accuracy of  deer: 65.18 %
+Validation accuracy of   dog: 39.49 %
+Validation accuracy of  frog: 59.57 %
+Validation accuracy of horse: 68.40 %
+Validation accuracy of  ship: 76.39 %
+Validation accuracy of truck: 71.66 %
